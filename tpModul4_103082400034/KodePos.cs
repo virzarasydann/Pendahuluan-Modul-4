@@ -63,7 +63,7 @@ namespace tpModul4_103082400034
         public static void getKodePos()
         {
 
-            string[] kelurahan = new string[]
+            string[] kelurahan = 
         {
             "Batununggal",
             "Kujangsari",
@@ -79,7 +79,7 @@ namespace tpModul4_103082400034
         };
 
 
-            string[] kodePos = new string[]
+            string[] kodePos = 
             {
             "40266",
             "40287",

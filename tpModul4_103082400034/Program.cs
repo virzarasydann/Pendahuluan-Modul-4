@@ -11,6 +11,8 @@ namespace tpModul4_103082400034
 
 
             KodePos.getKodePos();
+
+            DoorMachine.AutomataDriven();
         }
        
     }
